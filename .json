@@ -1,0 +1,99 @@
+{
+    "header": {
+      "title": "Social Media Dashboard",
+      "totalFollowers": 23004
+    },
+    "overall": [
+      {
+        "platform": "Facebook",
+        "username": "@nathanf",
+        "followers": 1987,
+        "todayChange": 12,
+        "icon": "icon-facebook.svg",
+        "trend": "up"
+      },
+      {
+        "platform": "Twitter",
+        "username": "@nathanf",
+        "followers": 1044,
+        "todayChange": 99,
+        "icon": "icon-twitter.svg",
+        "trend": "up"
+      },
+      {
+        "platform": "Instagram",
+        "username": "@realnathanf",
+        "followers": 11000,
+        "todayChange": 1099,
+        "icon": "icon-instagram.svg",
+        "trend": "up"
+      },
+      {
+        "platform": "YouTube",
+        "username": "@Nathan F.",
+        "subscribers": 8239,
+        "todayChange": -144,
+        "icon": "icon-youtube.svg",
+        "trend": "down"
+      }
+    ],
+    "overview": [
+      {
+        "platform": "Facebook",
+        "metric": "Page Views",
+        "value": 87,
+        "change": 3,
+        "trend": "up"
+      },
+      {
+        "platform": "Facebook",
+        "metric": "Likes",
+        "value": 52,
+        "change": -2,
+        "trend": "down"
+      },
+      {
+        "platform": "Instagram",
+        "metric": "Likes",
+        "value": 5462,
+        "change": 2257,
+        "trend": "up"
+      },
+      {
+        "platform": "Instagram",
+        "metric": "Profile Views",
+        "value": 52000,
+        "change": 1375,
+        "trend": "up"
+      },
+      {
+        "platform": "Twitter",
+        "metric": "Retweets",
+        "value": 117,
+        "change": 303,
+        "trend": "up"
+      },
+      {
+        "platform": "Twitter",
+        "metric": "Likes",
+        "value": 507,
+        "change": 553,
+        "trend": "up"
+      },
+      {
+        "platform": "YouTube",
+        "metric": "Likes",
+        "value": 107,
+        "change": -19,
+        "trend": "down"
+      },
+      {
+        "platform": "YouTube",
+        "metric": "Total Views",
+        "value": 1407,
+        "change": -12,
+        "trend": "down"
+      }
+    ]
+  }
+  
